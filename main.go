@@ -4,7 +4,7 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/weGAME9/animation/animation"
+	"github.com/wGAME9/animation/animation"
 
 	"github.com/hajimehoshi/ebiten/v2"
 )

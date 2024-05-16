@@ -1,4 +1,4 @@
-module github.com/weGAME9/animation
+module github.com/wGAME9/animation
 
 go 1.22.0
 

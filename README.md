@@ -3,6 +3,7 @@
 My implementation of drawing animation for ebitengine. Currently **only** support drawing line.
 
 Example:
+
 ```go
 package main
 
@@ -10,7 +11,7 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/weGAME9/animation/animation"
+	"github.com/wGAME9/animation/animation"
 
 	"github.com/hajimehoshi/ebiten/v2"
 )
